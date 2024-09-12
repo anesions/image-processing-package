@@ -1,6 +1,7 @@
 # mesclar_imagens
 
-Descrição. 
+## Descrição. 
+
 Esta package é usada para mesclar imagens e criar uma nova imagem a partir das imagens mescladas.
 	
 
