@@ -1,27 +1,20 @@
-# package_name
+# mesclar_imagens
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Descrição. 
+Esta package é usada para mesclar imagens e criar uma nova imagem a partir das imagens mescladas.
+	
 
-## Installation
+## Instalação
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install mesclar_imagens
 
 ```bash
-pip install package_name
+pip install mesclar_imagens
 ```
 
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
 
 ## Author
-My_name
+Anesio
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
